@@ -1,13 +1,8 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  title: MyString
-  description: MyText
-  image_url: MyString
-  price: 9.99
-
-two:
-  title: MyString
-  description: MyText
-  image_url: MyString
-  price: 9.99
+cat_hua:
+  title: Best cat ever
+  description:
+    Cat hua is a 1 year old cat of dragon li type. She is very enegetic and friendly
+  price: 500
+  image_url:  huahua.jpg

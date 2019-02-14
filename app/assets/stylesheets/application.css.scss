@@ -1,0 +1,46 @@
+
+#banner {
+	background: orange;
+	padding: 10px;
+	border-bottom: 2px solid;
+	font: small-caps 40px/40px "Times New Roman", serif;
+	color: black;
+	text-align: center;
+
+	img {
+		float: left;
+	}
+}
+#notice {
+	color: #000 !important;
+	border: 2px solid red;
+	padding: 1em;
+	margin-bottom: 2em;
+	background-color: "orange";
+	font: bold smaller sans-serif;
+}
+
+#columns {
+	background: pink;
+	#main {
+		margin-left: 17em;
+		padding: 1em;
+		background: white;
+	}
+	#side {
+		float: left;
+		padding: 1em 2em;
+		width: 13em;
+		background: pink;
+	}
+	ul{
+		padding: 0;
+		li{
+			list-style: none;
+			a{
+				color: black;
+				font-size: small;
+			}
+		}
+	}
+}
